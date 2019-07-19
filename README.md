@@ -1,4 +1,4 @@
-# Link date edit - Plugin Shaarli
+# Link date edit
  
 Link date edit is a plugin for [Shaarli](https://github.com/shaarli/Shaarli)  give capabilities to change date and time of a shaar (link).
  
